@@ -1,7 +1,4 @@
-from multiprocessing.sharedctypes import Value
-from typing import Any
-from fastapi import  FastAPI , Response,status , HTTPException
-from fastapi.params import Body
+from fastapi import  FastAPI , status , HTTPException
 from models import Post , PostModel
 
 

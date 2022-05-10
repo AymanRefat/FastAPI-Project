@@ -1,0 +1,7 @@
+
+{
+  "database_info":{
+    "dbname":"Posts database",
+    "user":"postgres",
+    "password":"12345"}
+  }
